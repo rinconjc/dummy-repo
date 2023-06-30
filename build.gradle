@@ -14,7 +14,7 @@ repositories {
     }
 }
 
-def artifactoryVersion = '7.55.5'
+def artifactoryVersion = '7.59.11'
 
 dependencies {
     implementation("org.artifactory:artifactory-core:${artifactoryVersion}")
